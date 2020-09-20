@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pri.Generics.Console", "Pri.Generics.Console\Pri.Generics.Console.csproj", "{D84A5665-D175-4E6C-A8DB-B3F4669CA019}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pri.Generics.Core", "Pri.Generics.Core\Pri.Generics.Core.csproj", "{FF1D1CE5-518C-49B0-8761-65DAC6B82B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84A5665-D175-4E6C-A8DB-B3F4669CA019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84A5665-D175-4E6C-A8DB-B3F4669CA019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84A5665-D175-4E6C-A8DB-B3F4669CA019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84A5665-D175-4E6C-A8DB-B3F4669CA019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF1D1CE5-518C-49B0-8761-65DAC6B82B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1D1CE5-518C-49B0-8761-65DAC6B82B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1D1CE5-518C-49B0-8761-65DAC6B82B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1D1CE5-518C-49B0-8761-65DAC6B82B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071D857F-F031-4DE9-8B2B-5A9951C18019}
+	EndGlobalSection
+EndGlobal
